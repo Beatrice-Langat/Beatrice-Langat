@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hello, I’m Beatrice Lang'at
 
-<!--
-**Beatrice-Langat/Beatrice-Langat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web App Developer | Full-Stack Enthusiast  
+🚀 Building scalable, user-friendly applications  
 
-Here are some ideas to get you started:
+🔭 Currently Working On  
+- Responsive web apps with clean UI & robust backend logic  
+- Full-stack projects using Next.js, Tailwind CSS, Node.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤝 Open to Collaborate  
+Let’s team up on:  
+- Open-source projects  
+- Web & mobile apps  
+- Backend APIs & integrations  
+
+## 🌱 Learning & Exploring  
+- SaaS architecture  
+- Real-time apps  
+- AI & automation tools  
+
+  
+
